@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Судоку</string>
+    <string name="continue_label">Продолжить</string>
+    <string name="easy_label">Лёгкий</string>
+    <string name="exit_label">Выход</string>
+    <string name="hard_label">Сложный</string>
+    <string name="help_label">Помощь</string>
+    <string name="hints_summary">Показывать подсказки</string>
+    <string name="hints_title">Подсказки</string>
+    <string name="keypad_title">Выберите число</string>
+    <string name="main_title">Главное меню</string>
+    <string name="medium_label">Средний</string>
+    <string name="music_summary">Воспроизведение музыки</string>
+    <string name="music_title">Музыка</string>
+    <string name="new_game_label">Новая игра</string>
+    <string name="new_game_title">Уровень сложности</string>
+    <string name="no_moves_label">Невозможно!</string>
+    <string name="settings_label">Настройки</string>
+</resources>

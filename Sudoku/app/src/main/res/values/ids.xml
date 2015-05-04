@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="keypad" type="id" />
+    <item name="keypad_1" type="id" />
+    <item name="keypad_2" type="id" />
+    <item name="keypad_3" type="id" />
+    <item name="keypad_4" type="id" />
+    <item name="keypad_5" type="id" />
+    <item name="keypad_6" type="id" />
+    <item name="keypad_7" type="id" />
+    <item name="keypad_8" type="id" />
+    <item name="keypad_9" type="id" />
+</resources>

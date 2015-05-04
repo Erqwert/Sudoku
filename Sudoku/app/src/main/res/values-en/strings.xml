@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="continue_label">Continue</string>
+    <string name="easy_label">Easy</string>
+    <string name="exit_label">Exit</string>
+    <string name="hard_label">Hard</string>
+    <string name="help_label">Help</string>
+    <string name="hints_summary">Show tooltips</string>
+    <string name="hints_title">Tips</string>
+    <string name="keypad_title">Select the number</string>
+    <string name="main_title">Main menu</string>
+    <string name="medium_label">Medium</string>
+    <string name="music_summary">Play music</string>
+    <string name="music_title">Music</string>
+    <string name="new_game_label">New game</string>
+    <string name="new_game_title">The level of difficulty</string>
+    <string name="no_moves_label">Impossible!</string>
+    <string name="settings_label">Settings</string>
+</resources>

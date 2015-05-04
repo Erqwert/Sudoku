@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="main_title">Main menu</string>
+    <string name="continue_label">Continue</string>
+    <string name="new_game_label">New game</string>
+    <string name="settings_label">Settings</string>
+    <string name="help_label">Help</string>
+    <string name="exit_label">Exit</string>
+
+    <string name="music_title">Music</string>
+    <string name="music_summary">Play music</string>
+    <string name="hints_title">Tips</string>
+    <string name="hints_summary">Show tooltips</string>
+
+    <string name="new_game_title">The level of difficulty</string>
+    <string name="easy_label">Easy</string>
+    <string name="medium_label">Medium</string>
+    <string name="hard_label">Hard</string>
+
+    <string name="no_moves_label">Impossible!</string>
+    <string name="keypad_title">Select the number</string>
+
+    <string name="key_1" translatable="false">1</string>
+    <string name="key_2" translatable="false">2</string>
+    <string name="key_3" translatable="false">3</string>
+    <string name="key_4" translatable="false">4</string>
+    <string name="key_5" translatable="false">5</string>
+    <string name="key_6" translatable="false">6</string>
+    <string name="key_7" translatable="false">7</string>
+    <string name="key_8" translatable="false">8</string>
+    <string name="key_9" translatable="false">9</string>
+
+    <string name="back_pressed" translatable="false">Press once again to exit!</string>
+    <string name="help_title" translatable="false">\n <b>Судоку</b> состоит из квадрата размером 9x9 клеток, который разделен на малые квадраты 3x3, называмемые "областями".
+    \n\n <b>Цель игры</b> - заполнить пустые клетки цифрами от 1 до 9 таким образом, чтобы цифра встречалась всего один раз в каждой строке, в каждом столбце и в каждом малом квадрате.</string>
+</resources>

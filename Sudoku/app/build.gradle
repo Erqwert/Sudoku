@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'Litvinov'
+            keyPassword '8s3l4a2v6a6'
+            storeFile file('/home/Litvinov59/Yandex.Disk/Documents/Литвинов Вячеслав Александрович/Проекты/Android/Отпечаток/Litvinov.jks')
+            storePassword '8s3l4a2v6a6'
+        }
+    }
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+    defaultConfig {
+        applicationId "com.litvinov59.sudoku"
+        minSdkVersion 16
+        targetSdkVersion 22
+        versionCode 3
+        versionName "3.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:22.1.1'
+}

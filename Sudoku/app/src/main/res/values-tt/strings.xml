@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Судоку</string>
+    <string name="continue_label">Дəвам иттерү</string>
+    <string name="easy_label">Җиңел</string>
+    <string name="exit_label">Чыгу урыны</string>
+    <string name="hard_label">Катлаулы</string>
+    <string name="help_label">Ярдəм</string>
+    <string name="hints_summary">Күрсәтү астан әйтү</string>
+    <string name="hints_title">Астан әйтү</string>
+    <string name="keypad_title">Күрсәтү сан</string>
+    <string name="main_title">Иң әһәмиятлесе меню</string>
+    <string name="medium_label">Урта</string>
+    <string name="music_summary">Җитештерү</string>
+    <string name="music_title">Музыка</string>
+    <string name="new_game_label">Новая уен</string>
+    <string name="new_game_title">Биеклек катлаулылык</string>
+    <string name="no_moves_label">Мөмкин түгел</string>
+    <string name="settings_label">Настройки</string>
+</resources>
