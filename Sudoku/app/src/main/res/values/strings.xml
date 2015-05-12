@@ -31,6 +31,6 @@
     <string name="key_9" translatable="false">9</string>
 
     <string name="back_pressed" translatable="false">Press once again to exit!</string>
-    <string name="help_title" translatable="false">\n <b>Судоку</b> состоит из квадрата размером 9x9 клеток, который разделен на малые квадраты 3x3, называмемые "областями".
+    <string name="help_title" translatable="false">\n <b>Судоку</b> состоит из квадрата размером 9x9 клеток, который разделен на малые квадраты 3x3, называемые "областями".
     \n\n <b>Цель игры</b> - заполнить пустые клетки цифрами от 1 до 9 таким образом, чтобы цифра встречалась всего один раз в каждой строке, в каждом столбце и в каждом малом квадрате.</string>
 </resources>
